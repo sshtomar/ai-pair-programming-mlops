@@ -1,0 +1,16 @@
+# Sentiment Classifier Configuration
+# ==================================
+
+# Feature extraction settings
+max_features: 5000  # Maximum vocabulary size for TF-IDF
+
+# Model hyperparameters
+C: 1.0  # Regularization strength (smaller = stronger regularization)
+
+# Data split ratios
+train_size: 0.7
+val_size: 0.15
+# test_size is implicitly 0.15
+
+# Reproducibility
+random_state: 42

@@ -1,0 +1,9 @@
+{
+    "environment": "development",
+    "debug": true,
+    "log_level": "DEBUG",
+    "model_config": {
+        "max_features": 1000,
+        "random_state": 42
+    }
+}
