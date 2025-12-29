@@ -6,11 +6,23 @@ Learn production machine learning by building and deploying a real sentiment cla
 
 A production-ready sentiment classifier for customer feedback analysis. You'll take it from a local script to a fully deployed, monitored API with CI/CD.
 
-**Project Progression:**
-- Level 1: Train locally, package in Docker
-- Level 2: Add data versioning, experiment tracking, testing
-- Level 3: Deploy as a REST API to the cloud
-- Level 4: Add CI/CD, monitoring, and drift detection
+```
+                                YOUR LEARNING JOURNEY
+
+    Level 1               Level 2               Level 3               Level 4
+   Foundations            Pipeline             Deployment           Production
+
+   ┌─────────┐          ┌─────────┐          ┌─────────┐          ┌─────────┐
+   │  Local  │          │   DVC   │          │ FastAPI │          │  CI/CD  │
+   │  Model  │────────▶ │ + MLflow│────────▶ │   API   │────────▶ │ Pipeline│
+   └─────────┘          └─────────┘          └─────────┘          └─────────┘
+        │                    │                    │                    │
+        ▼                    ▼                    ▼                    ▼
+   ┌─────────┐          ┌─────────┐          ┌─────────┐          ┌─────────┐
+   │ Docker  │          │  Tests  │          │  Cloud  │          │  Drift  │
+   │ Package │          │         │          │ Deploy  │          │ Monitor │
+   └─────────┘          └─────────┘          └─────────┘          └─────────┘
+```
 
 ## Prerequisites
 
