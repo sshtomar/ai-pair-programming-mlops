@@ -100,6 +100,8 @@ Run these in Claude Code:
 
 ## How This Course Works
 
+![Lesson interaction example](images/lesson-interaction.png)
+
 This course uses a Socratic teaching approach:
 - Claude asks questions to check your understanding before explaining concepts
 - You attempt exercises before receiving help
