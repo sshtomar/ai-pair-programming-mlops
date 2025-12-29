@@ -1,5 +1,11 @@
 # Interactive MLOps Course with Claude Code
 
+[![Claude Code](https://img.shields.io/badge/+-Claude%20Code-d97757)](https://github.com/sshtomar/ai-pair-programming-mlops#readme)
+[![GitHub Issues](https://img.shields.io/badge/+-GitHub%20Issues-1f2328)](https://github.com/sshtomar/ai-pair-programming-mlops/issues)
+[![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Twitter](https://img.shields.io/badge/X-@shubhamtomar24-black)](https://x.com/shubhamtomar24)
+[![Star this repo](https://img.shields.io/github/stars/sshtomar/ai-pair-programming-mlops?style=social)](https://github.com/sshtomar/ai-pair-programming-mlops)
+
 Learn production machine learning by building and deploying a real sentiment classifier. This hands-on course uses Claude Code as your AI learning partner, guiding you through the complete MLOps lifecycle.
 
 ## What You'll Build
