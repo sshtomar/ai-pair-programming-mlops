@@ -36,7 +36,7 @@ A production-ready sentiment classifier for customer feedback analysis. You'll t
 - Basic ML concepts (sklearn, pandas, train/test splits)
 - Command line familiarity
 - Docker installed
-- Claude Code CLI installed ([installation guide](https://docs.anthropic.com/en/docs/claude-code))
+- Claude Code CLI installed ([installation guide](https://code.claude.com/docs/en/overview))
 
 ## Getting Started
 
@@ -105,6 +105,8 @@ Run these in Claude Code:
 | `/help-mlops` | Get help on MLOps concepts |
 
 ## How This Course Works
+
+![Demo](images/demo.gif)
 
 ![Lesson interaction example](images/lesson-interaction.png)
 
